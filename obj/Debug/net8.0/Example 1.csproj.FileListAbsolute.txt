@@ -1,0 +1,30 @@
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\appsettings.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\Example 1.staticwebassets.runtime.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\Example 1.exe
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\Example 1.deps.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\Example 1.runtimeconfig.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\Example 1.dll
+C:\Users\Amin\Desktop\ASP Projects\Example 1\bin\Debug\net8.0\Example 1.pdb
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.AssemblyInfoInputs.cache
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.AssemblyInfo.cs
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.csproj.CoreCompileInputs.cache
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.RazorAssemblyInfo.cache
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.RazorAssemblyInfo.cs
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\staticwebassets\msbuild.Example 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\staticwebassets\msbuild.build.Example 1.props
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Example 1.props
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Example 1.props
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\scopedcss\bundle\Example 1.styles.css
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\scopedcss\projectbundle\Example 1.bundle.scp.css
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.dll
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\refint\Example 1.dll
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.pdb
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.genruntimeconfig.cache
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\ref\Example 1.dll
