@@ -28,3 +28,4 @@ C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\refint\Example 1.d
 C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.pdb
 C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.genruntimeconfig.cache
 C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\ref\Example 1.dll
+C:\Users\Amin\Desktop\ASP Projects\Example 1\obj\Debug\net8.0\Example 1.sourcelink.json
