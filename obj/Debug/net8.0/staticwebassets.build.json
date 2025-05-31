@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ynjM/gDcW5HDNlV+/SxG1SS1HJNTEYLfWi8lr4weSkY=",
+  "Hash": "tIKrDYa1xt+czDJldYMNEZiK1Z2o9OjYAxzlg0n5lks=",
   "Source": "Example 1",
   "BasePath": "_content/Example 1",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Amin\\Desktop\\ASP Projects\\Example 1\\wwwroot\\images\\products.jpg",
+      "SourceId": "Example 1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Amin\\Desktop\\ASP Projects\\Example 1\\wwwroot\\",
+      "BasePath": "_content/Example 1",
+      "RelativePath": "images/products.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products.jpg"
     },
     {
       "Identity": "C:\\Users\\Amin\\Desktop\\ASP Projects\\Example 1\\wwwroot\\js\\site.js",
